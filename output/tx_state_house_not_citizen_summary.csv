@@ -1,0 +1,11 @@
+calculation,value
+count_districts,150
+pop_not_citizen,2955178.0
+pop_all,27419612.0
+not_citizen_pop_all_perc,10.8
+median_pop_all_districts,181448.0
+not_citizen_pop_in_median_district,16.3
+pop_not_citizen_D_districts,1895173.0
+not_citizen_pop_in_D_districts_perc,64.1
+pop_not_citizen_R_districts,1060005.0
+not_citizen_pop_in_R_districts_perc,35.9

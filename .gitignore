@@ -1,0 +1,6 @@
+census-api-key.txt
+info.txt
+
+raw_data/*
+temp/*
+pre_edits_hard_to_count/*
