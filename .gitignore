@@ -1,6 +1,8 @@
 census-api-key.txt
 info.txt
+analysis_geo.ipynb
 
 raw_data/*
 temp/*
+edits/*
 pre_edits_hard_to_count/*
