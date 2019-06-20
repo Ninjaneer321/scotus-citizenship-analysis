@@ -6,6 +6,6 @@ We use the Census API to gather population information on political districts in
 
 All files that were analyzed are placed in the "output" directory. A data dictionary of the columns in each of these files can be found in [this Google document](https://docs.google.com/document/d/1fYve5xIhRYPcuq11CCQt3IHIHA3xqLgucHAeJ_lhJS8/edit).
 
-Note: Because of large file sizes, all raw files have not been updated to Github.
+Note: Raw files have not been updated to Github.
 
 
