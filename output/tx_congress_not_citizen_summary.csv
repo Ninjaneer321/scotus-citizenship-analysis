@@ -4,7 +4,9 @@ pop_not_citizen,2955178.0
 pop_all,27419612.0
 not_citizen_pop_all_perc,10.8
 median_pop_all_districts,757885.0
+mean_pop_all_districts,761655.9
 not_citizen_pop_in_median_district,3.9
+not_citizen_pop_in_mean_district,3.9
 pop_not_citizen_D_districts,1575979.0
 not_citizen_pop_in_D_districts_perc,53.3
 pop_not_citizen_R_districts,1379199.0
